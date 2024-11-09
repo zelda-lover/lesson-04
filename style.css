@@ -1,0 +1,12 @@
+body {
+    background-color: lightskyblue;
+}
+
+#intro {
+    text-align: center;
+    font-family: "Afacad Flux", serif;
+    color: paleturquoise;
+    background-color: rgb(46, 74, 196);
+    padding: 5px;
+    border-radius: 5px;
+}
